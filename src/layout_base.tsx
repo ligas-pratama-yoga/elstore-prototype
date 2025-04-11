@@ -16,7 +16,7 @@ export default function LayoutBase() {
           <form className="flex-1">
             <div className="border relative rounded-md">
               <input type="search" className="w-full border rounded-md outline-none px-2 py-px" />
-              <button className="absolute right-0 mt-[0.3rem] mr-1.5" type="submit">
+              <button className="absolute right-0 mt-[0.3rem]  mr-1.5" type="submit">
                 <Search size={16} className="text-neutral-500" />
               </button>
             </div>
